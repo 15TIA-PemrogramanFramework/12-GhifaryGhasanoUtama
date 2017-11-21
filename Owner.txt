@@ -1,0 +1,9 @@
+Nama 	: Ghifary Ghasano Utama
+Kelas	: 3 TIA
+NIM	: 1555301029
+Email	: ghifary15ti@mahasiswa.pcr.ac.id
+No-Hp	: 082169037330
+
+Username dan password guru
+username	: 123
+Password	: 123
